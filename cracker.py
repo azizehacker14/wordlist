@@ -14,9 +14,10 @@ os.system("cowsay -f eyes 'azrd04'")
 
 
 
-import itertools
-import os
-os.system("clear")
+print (" ")
+print (" ")
+
+
 ban = '''
 
                          '''
