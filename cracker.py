@@ -4,14 +4,14 @@
 import itertools
 import os
 os.system("clear")
-os.system("cowsay -f eyes 'azrd04')
-# SMART WORDLIST
-#
-# BY : ABDOU AZIZE
-# CRACKER
-## VERSION : 8.1
-#  ՙՙ ՙՙ
-##################
+
+
+
+
+
+
+
+
 
 import itertools
 import os
