@@ -5,7 +5,7 @@ import itertools
 import os
 os.system("clear")
 os.system("cowsay -f eyes 'azrd04'")
-
+os.system("figlet azrd04")
 
 
 
